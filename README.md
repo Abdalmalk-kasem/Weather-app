@@ -3,7 +3,7 @@
 Discover the latest weather conditions with Weather Explorer, a dynamic and responsive web app built with HTML, CSS, and JavaScript. By harnessing the power of a real-time weather API, this application provides accurate and up-to-date weather information for any location globally. Whether you're planning a trip or simply curious about the current weather, Weather Explorer delivers a seamless and interactive user experience.
 
 ## Demo
-[Explore the Weather](https://abdalmalk-kasem.github.io/Weather-app/)
+[Demo](https://abdalmalk-kasem.github.io/Weather-app/)
 
 ## Project Details
 
